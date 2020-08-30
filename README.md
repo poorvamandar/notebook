@@ -6,6 +6,7 @@ To start the server run
 ./gradlew bootRun
 
 Example requests:
+
 Create a note:
 curl -X POST localhost:8080/notes -H 'Content-type:application/json' -d '{"ownerId": "123", "title": "hello", "content":"hello world"}'
 
