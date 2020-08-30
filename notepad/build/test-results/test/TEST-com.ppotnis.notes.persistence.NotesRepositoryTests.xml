@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ppotnis.notes.persistence.NotesRepositoryTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-08-30T23:26:17" hostname="mbp-002756" time="0.656">
+  <properties/>
+  <testcase name="getNoteTestWhenNoNote()" classname="com.ppotnis.notes.persistence.NotesRepositoryTests" time="0.642"/>
+  <testcase name="createNoteSuccess()" classname="com.ppotnis.notes.persistence.NotesRepositoryTests" time="0.004"/>
+  <testcase name="getNotesTestSuccess()" classname="com.ppotnis.notes.persistence.NotesRepositoryTests" time="0.002"/>
+  <testcase name="getNotesTestWhenNoNotesForUser()" classname="com.ppotnis.notes.persistence.NotesRepositoryTests" time="0.002"/>
+  <testcase name="getNoteTestSuccess()" classname="com.ppotnis.notes.persistence.NotesRepositoryTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
